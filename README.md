@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I'm Noé Suaste
+
+- 👨‍💻 I'm currently studying computer science.
+- 📫 How to reach me: [Linkedin](www.linkedin.com/in/noé-abraham-suaste-morales-8915a02a9)
 
 <!--
 **noe-suaste/noe-suaste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
